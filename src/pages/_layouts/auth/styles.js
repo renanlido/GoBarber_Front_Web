@@ -41,7 +41,7 @@ export const Content = styled.div`
     }
 
     button {
-      margin: 5px;
+      margin-top: 5px;
       height: 44px;
       background: #3b9eff;
       color: #fff;
